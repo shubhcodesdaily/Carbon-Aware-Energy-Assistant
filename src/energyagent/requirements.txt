@@ -1,0 +1,12 @@
+tzdata
+requests
+langchain-core
+langchain-groq
+langgraph
+streamlit
+# --- core analysis (needed for the data tools, analysis and Excel report) ---
+requests
+tzdata
+pandas
+numpy
+openpyxl
